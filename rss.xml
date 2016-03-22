@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Herbert Reininger]]></title>
         <description><![CDATA[Herbert Reininger]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/herbert-reininger/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 18:41:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 18:43:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/herbert-reininger/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>1. The audience.</p>]]></description>
+            <link>https://thegrid.ai/herbert-reininger/1-the-audience/index.html</link>
+            <guid isPermaLink="false">5a3e3767-f5b2-42ba-880d-08e7da677f8d</guid>
+            <pubDate>Tue, 22 Mar 2016 18:43:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The Creative Director.</p>]]></description>
-            <link>undefinedthe-creative-director/index.html</link>
+            <link>https://thegrid.ai/herbert-reininger/the-creative-director/index.html</link>
             <guid isPermaLink="false">66a6941b-a507-4150-8421-57e7cfa2d0e6</guid>
             <pubDate>Tue, 22 Mar 2016 18:39:55 GMT</pubDate>
         </item>

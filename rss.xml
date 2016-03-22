@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Herbert Reininger]]></title>
+        <description><![CDATA[Herbert Reininger]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 22 Mar 2016 18:41:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The Creative Director.</p>]]></description>
+            <link>undefinedthe-creative-director/index.html</link>
+            <guid isPermaLink="false">66a6941b-a507-4150-8421-57e7cfa2d0e6</guid>
+            <pubDate>Tue, 22 Mar 2016 18:39:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
